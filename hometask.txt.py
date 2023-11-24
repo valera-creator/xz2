@@ -9,8 +9,8 @@ with nice buttons on his jacket (buttons branch)
 
 4) в репозитории 2 ветки, т.к. продолжение задания
 коммиты до отправки текста с ответом на 4 пункт:
-в ветке master:
-
+в ветке master 12 коммитов:
+add commits info
 add hometask file
 Merge branch 'boots_buttons'
 Merge remote-tracking branch 'remotes/origin/hat'
@@ -23,7 +23,7 @@ boots
 heat added
 init
 
-в ветке boots_buttons:
+в ветке boots_buttons 7 коммитов:
 Merge remote-tracking branch 'remotes/origin/buttons' into boots_buttons
 Merge remote-tracking branch 'remotes/origin/boots' into boots_buttons
 fix readme
